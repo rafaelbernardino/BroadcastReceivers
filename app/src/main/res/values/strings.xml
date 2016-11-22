@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BroadcastReceivers</string>
+    <string name="entrar">Entrar</string>
+    <string name="logar">Logar</string>
+    <string name="teste">Teste</string>
+    <string name="configurar">Configurar</string>
+</resources>
